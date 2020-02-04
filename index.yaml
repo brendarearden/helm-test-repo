@@ -16,5 +16,5 @@ entries:
     digest: da054ba832f52ff3e8da26ffe705d6ad6c2ed0818c04588c832c716e8e8d84a7
     name: azure-vote
     urls:
-    - https://azure-samples.github.io/helm-charts/azure-vote-0.1.0.tgz
+    - local://azure-samples.github.io/helm-charts/aks-helloworld-0.1.0.tgz
     version: 0.1.0
